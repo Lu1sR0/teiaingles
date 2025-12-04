@@ -183,9 +183,9 @@ export function Footer() {
               <div className="space-y-2 sm:space-y-3">
                 <div className="flex items-center gap-2 sm:gap-3">
                   <Mail className="h-3 w-3 sm:h-4 sm:w-4 text-teia-purple flex-shrink-0" />
-                  <span className="font-akzidenz font-black text-gray-300 text-xs sm:text-sm break-all">
+                    <a href="mailto:contato@teiadecriadores.com" className="font-akzidenz font-black text-gray-300 text-xs sm:text-sm hover:text-teia-purple transition-colors duration-300 whitespace-nowrap">
                     contato@teiadecriadores.com
-                  </span>
+                    </a>
                 </div>
                 <div className="flex items-start gap-2 sm:gap-3">
                   <MapPin className="h-3 w-3 sm:h-4 sm:w-4 text-teia-green mt-1 flex-shrink-0" />

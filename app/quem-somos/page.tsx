@@ -53,11 +53,6 @@ export default function QuemSomosPage() {
       image: "/team/eiane-vieira.jpeg",
     },
     {
-      name: "Luana Lira",
-      role: "Journalist",
-      image: "/team/luana-lira.jpeg",
-    },
-    {
       name: "Franco Dafon",
       role: "Executive Producer",
       image: "/team/franco-nunes.jpeg",
